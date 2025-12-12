@@ -62,5 +62,5 @@ I’m a DevOps enthusiast showcasing projects that demonstrate CI/CD pipelines, 
 
 ## 🔹 License / Usage
 
-All projects are publicly viewable for portfolio purposes only.  
+Some of my projects are publicly available for portfolio purposes. I also maintain several private repositories used in real-world environments, which I’m happy to share with future colleagues upon request.
 No code may be copied, modified, or redistributed without the author’s permission.
