@@ -1,17 +1,19 @@
 # Hi, I'm Almir 👋
 
-## Welcome to my GitHub portfolio! # Under construction
-I’m a DevOps enthusiast showcasing projects that demonstrate CI/CD pipelines, containerization, infrastructure automation, and monitoring setups.
+## Welcome to my GitHub portfolio!
+I am a DevOps and Site Reliability Engineer providing professional services for cloud, on-premise, and hybrid environments.  
+This portfolio showcases my expertise in building **automated, scalable, and reliable systems** that meet modern infrastructure and operational requirements.
 
 ---
 
 ## 🔹 Skills & Tools
 
 - **Languages:** Python, PHP, Bash, C#
-- **DevOps / Cloud:** Docker, k3s, k8s, Kubernetes, Terraform
-- **CI/CD:** GitHub Actions, Jenkins, Gitlab CI, Circle CI
-- **Monitoring / Logging:** Grafana, Prometheus, ELK Stack
-- **Version Control & Collaboration:** Git, GitHub, SVN
+- **Containerization & Orchestration:** Docker, Kubernetes (k3s, EKS, GKE)
+- **Infrastructure Automation:** Terraform, Ansible, Proxmox 
+- **CI/CD Pipelines:** GitHub Actions, Jenkins, Gitlab CI, Circle CI
+- **Monitoring / Logging:** Grafana, Prometheus, ELK Stack, OpenTelemetry
+- **Version Control & Collaboration:** Git, GitHub, SVN, Bitbucket
 
 ---
 
@@ -25,7 +27,6 @@ I’m a DevOps enthusiast showcasing projects that demonstrate CI/CD pipelines, 
   - Unit tests with coverage reporting
   - Kubernetes ConfigMap and Deployment management
   - CI/CD verification steps using self-hosted runner
-- **Screenshot / Diagram:** *(optional: add image here)*
 
 ### [Monitoring-Alerting](https://github.com/almirAlitovic/Monitoring-Alerting)
 - **Description:** Setup for local and dev environments to improve monitoring and alerting practices.
@@ -37,7 +38,7 @@ I’m a DevOps enthusiast showcasing projects that demonstrate CI/CD pipelines, 
 
 ### [ISPKlijenti](https://github.com/almirAlitovic/ISPKlijenti)
 - **Description:** Client management system for tracking installations and service requests.
-- **Tech:** JavaScript
+- **Tech:** C#
 - **Highlights:**
   - Frontend & backend integration
   - Data tracking and reporting
@@ -47,8 +48,7 @@ I’m a DevOps enthusiast showcasing projects that demonstrate CI/CD pipelines, 
 
 ## 🔹 How to Explore
 
-- All repositories are **public** for educational and portfolio purposes.  
-- You can **view code, clone, or fork** to experiment with the setups.  
+- Listed repositories are **public** for educational and portfolio purposes.
 - Projects demonstrate **hands-on DevOps skills**, including CI/CD automation, container orchestration, monitoring, and infrastructure-as-code.
 
 ---
@@ -56,7 +56,7 @@ I’m a DevOps enthusiast showcasing projects that demonstrate CI/CD pipelines, 
 ## 🔹 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/almir-alitovic/)  
-- Email: almir.alitovic@logicpulse.ba
+- Email: almir.alitovic@logicpulse.ba / almir.alitovic1@gmail.com
 
 ---
 
