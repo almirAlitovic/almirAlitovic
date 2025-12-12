@@ -19,7 +19,7 @@ This portfolio showcases my expertise in building **automated, scalable, and rel
 
 ## 🔹 Featured Projects
 
-### [devops-skills-demo](https://github.com/almirAlitovic/devops-skills-demo)
+### [DevOps Skills Demo](https://github.com/almirAlitovic/devops-skills-demo)
 - **Description:** Hands-on demo of a Dockerized Python app deployed on k3s with a fully automated CI/CD pipeline.
 - **Tech:** Python, Docker, k3s, GitHub Actions
 - **Highlights:**
@@ -28,7 +28,7 @@ This portfolio showcases my expertise in building **automated, scalable, and rel
   - Kubernetes ConfigMap and Deployment management
   - CI/CD verification steps using self-hosted runner
 
-### [Monitoring-Alerting](https://github.com/almirAlitovic/Monitoring-Alerting)
+### [Monitoring and Alerting](https://github.com/almirAlitovic/Monitoring-Alerting)
 - **Description:** Setup for local and dev environments to improve monitoring and alerting practices.
 - **Tech:** Python, Grafana, Prometheus, ELK Stack
 - **Highlights:**
@@ -36,7 +36,18 @@ This portfolio showcases my expertise in building **automated, scalable, and rel
   - Monitoring dashboards for services
   - Demonstrates SLI/SLO tracking and notifications
 
-### [ISPKlijenti](https://github.com/almirAlitovic/ISPKlijenti)
+### [AWS Infrastructure Demo](https://github.com/almirAlitovic/aws-infra-demo)
+- **Description:** Hands-on demo of deploying and managing AWS infrastructure using Terraform, including EC2, VPC, and ALB configuration.
+- **Tech:** AWS, Terraform, ALB, VPC, EC2, S3, DynamoDB
+- **Highlights:**
+  - Automated infrastructure provisioning with Terraform
+  - Modular design for core components
+  - Remote state management (S3 + DynamoDB)
+  - VPC, subnets, and networking setup for isolated environments
+  - Easily reproducible cloud infrastructure for learning and demonstration
+
+
+### [ISP Clients App](https://github.com/almirAlitovic/ISPKlijenti)
 - **Description:** Client management system for tracking installations and service requests.
 - **Tech:** C#
 - **Highlights:**
@@ -55,7 +66,7 @@ This portfolio showcases my expertise in building **automated, scalable, and rel
 
 ## 🔹 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/almir-alitovic/)  
+- LinkedIn: https://www.linkedin.com/in/almir-alitovic
 - Email: almir.alitovic@logicpulse.ba / almir.alitovic1@gmail.com
 
 ---
