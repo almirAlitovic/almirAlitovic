@@ -55,8 +55,8 @@ I’m a DevOps enthusiast showcasing projects that demonstrate CI/CD pipelines, 
 
 ## 🔹 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/almiralitovic) *(if applicable)*  
-- Email: almir@example.com *(replace with real email if desired)*
+- [LinkedIn](https://www.linkedin.com/in/almir-alitovic/)  
+- Email: almir.alitovic@logicpulse.ba
 
 ---
 
