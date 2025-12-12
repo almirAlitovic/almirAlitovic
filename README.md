@@ -1,17 +1,17 @@
 # Hi, I'm Almir 👋
 
-Welcome to my GitHub portfolio! # Under construction
+## Welcome to my GitHub portfolio! # Under construction
 I’m a DevOps enthusiast showcasing projects that demonstrate CI/CD pipelines, containerization, infrastructure automation, and monitoring setups.
 
 ---
 
 ## 🔹 Skills & Tools
 
-- **Languages:** Python, PHP, Bash
+- **Languages:** Python, PHP, Bash, C#
 - **DevOps / Cloud:** Docker, k3s, k8s, Kubernetes, Terraform
-- **CI/CD:** GitHub Actions
+- **CI/CD:** GitHub Actions, Jenkins, Gitlab CI, Circle CI
 - **Monitoring / Logging:** Grafana, Prometheus, ELK Stack
-- **Version Control & Collaboration:** Git, GitHub
+- **Version Control & Collaboration:** Git, GitHub, SVN
 
 ---
 
