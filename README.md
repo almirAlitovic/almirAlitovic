@@ -11,9 +11,9 @@ This portfolio showcases my expertise in building **automated, scalable, and rel
 - **Languages:** Python, PHP, Bash, C#
 - **Containerization & Orchestration:** Docker, Kubernetes (k3s, EKS, GKE)
 - **Infrastructure Automation:** Terraform, Ansible, Proxmox 
-- **CI/CD Pipelines:** GitHub Actions, Jenkins, Gitlab CI, Circle CI
+- **CI/CD Pipelines:** GitHub Actions, Jenkins, Gitlab CI, Circle CI, Argo CD
 - **Monitoring / Logging:** Grafana, Prometheus, ELK Stack, OpenTelemetry
-- **Version Control & Collaboration:** Git, GitHub, SVN, Bitbucket
+- **Version Control & Collaboration:** GitLab, GitHub, SVN, Bitbucket
 
 ---
 
@@ -73,5 +73,5 @@ This portfolio showcases my expertise in building **automated, scalable, and rel
 
 ## 🔹 License / Usage
 
-Some of my projects are publicly available for portfolio purposes. I also maintain several private repositories used in real-world environments, which I’m happy to share with future colleagues upon request.
+Some of my projects are publicly available for portfolio purposes. I also maintain several private repositories used in real-world environments, which I’m happy to share with my future colleagues upon request.
 No code may be copied, modified, or redistributed without the author’s permission.
