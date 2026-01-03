@@ -17,7 +17,7 @@ This portfolio showcases my expertise in building **automated, scalable, and rel
 
 ---
 
-## 🔹 Featured Projects
+## 🔹 Public Projects
 
 ### [DevOps Skills Demo](https://github.com/almirAlitovic/devops-skills-demo)
 - **Description:** Hands-on demo of a Dockerized Python app deployed on k3s with a fully automated CI/CD pipeline.
@@ -54,6 +54,14 @@ This portfolio showcases my expertise in building **automated, scalable, and rel
   - Frontend & backend integration
   - Data tracking and reporting
   - Shows understanding of client management workflows
+
+---
+
+## 🔹 Private Projects (access on demand)
+- End-to-end ML pipelines orchestrated with **Apache Airflow**
+- Training with **PyTorch & TensorFlow** on Kubernetes
+- GitOps deployments using **ArgoCD**
+- Application Lifecycle Automation
 
 ---
 
